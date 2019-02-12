@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoinPremierProjectAndroid</string>
+    <string name="btn_enter_string">Entrer</string>
+    <string name="welcome_string">Bienvenue</string>
+</resources>
